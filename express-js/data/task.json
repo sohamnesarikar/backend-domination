@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3bdc6edd-4ed2-4e02-8af9-eed782041fa0",
+    "title": "Playing Cricket",
+    "description": "Playing cricket game on pc",
+    "userEmail": "john@example.com",
+    "isCompleted": false
+  },
+  {
+    "id": "3fadae4c-ed72-4ae6-b889-ed6b430c58c6",
+    "title": "Learn Ai",
+    "description": "Learning Gen AI",
+    "userEmail": "john@example.com",
+    "isCompleted": false
+  },
+  {
+    "id": "3ebb12bc-c111-4dbb-9c05-367415baf154",
+    "title": "learning Mongodb",
+    "description": "what is nosql db",
+    "userEmail": "mark@example.com",
+    "isCompleted": true
+  },
+  {
+    "id": "de9b2928-22bc-44c9-94a0-42b89043e70a",
+    "title": "shopping",
+    "description": "buy milk and fruits",
+    "userEmail": "mark@example.com",
+    "isCompleted": false
+  }
+]
